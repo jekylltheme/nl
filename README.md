@@ -8,18 +8,17 @@ Configration
 ==
 Config the file `_config.yml`:
 
-{% highlight yaml linenos %}
-#site basic info setting:
-baseurl: '/project-name' # for http://your-github-name.github.io/project-name
-site_name: Site Name
-description: ''
-author:
-  name: Author Name
-  email: email@email.com
-  github: github
-  twitter: twitter
-  bio: bio description
-##site basic info setting
-{% endhighlight %}
+  #site basic info setting:
+  baseurl: '/project-name' # for http://your-github-name.github.io/project-name
+  site_name: Site Name
+  description: ''
+  author:
+    name: Author Name
+    email: email@email.com
+    github: github
+    twitter: twitter
+    bio: bio description
+  ##site basic info setting
+
 
 

@@ -22,4 +22,7 @@ author:
 ##site basic info setting
 {% endhighlight %}
 
+Licence
+==
+The MIT License
 
